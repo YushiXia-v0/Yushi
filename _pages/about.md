@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: [/](https://yushixia-v0.github.io/Yushi/)
 title: "夏禹实 Yushi Xia"
 author_profile: true
 redirect_from: 
